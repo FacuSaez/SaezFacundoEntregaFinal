@@ -1,0 +1,85 @@
+/*reset*/
+*{
+    margin: 0px 0px 0px 3px;
+    padding: 0;
+    box-sizing: content-box;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    margin: 2rem 0px 0px 0px;
+}
+
+main div p{
+    margin: 0px 0px 6px 0px;
+}
+
+.form-label{
+    font-weight: 600;
+}
+
+h1 { 
+    font-size: 1.76rem;
+    margin: .8rem 0px 0rem 0px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.flexPage2 {
+    display: flex;
+    justify-content: center;
+}
+
+.cuadradoOpciones{
+    border-radius: 19px;
+    padding: 6px;
+}
+
+.ahrefNoRegistrado{
+    display: flex;
+    justify-content: center;
+    font-size: 1.55rem;
+    background-color: grey;
+    border: black solid 2px;
+    margin: 0px 12rem 0px 12rem;
+    padding: 0px 3rem 0px 3rem;
+}
+
+.pNoRegistrado{
+    text-align: center;
+    font-size: 1.12rem;
+    margin-top: 12rem;
+}
+
+.fieldset_baticks{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+
+.li_baticks{
+    list-style: none;
+}
+
+.prestamos_fabrizio{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 1.12rem;
+}
+
+.resultados_prestamo{
+    padding-top: 300px;
+}
+
+
+
+
+
+
+
